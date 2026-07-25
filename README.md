@@ -4,15 +4,15 @@ A browser-based Solana vanity wallet generator. Enter a prefix and/or suffix, ge
 
 ## Live Demo
 
-Try it live: `https://your-live-demo-url-here`
+Try it live: `https://vanity808.vercel.app/`
 
 ## Repository
 
 Clone the project:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Daniel999l/vanity.git
+cd vanity
 ```
 
 ## Run Locally
@@ -60,8 +60,3 @@ http://localhost:5173/
 ## Deployment
 
 This is a static frontend app, so it can be deployed to Vercel or any other static host.
-
-## Replace These Placeholders
-
-- Live demo URL: `https://your-live-demo-url-here`
-- GitHub repo URL: `https://github.com/your-username/your-repo-name.git`
